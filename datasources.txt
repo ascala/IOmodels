@@ -1,0 +1,11 @@
+https://data.oecd.org/emp/labour-force-participation-rate.htm#indicator-chart
+
+https://microdata.worldbank.org/index.php/catalog/ipums/about#:~:text=IPUMS%20provides%20census%20and%20survey,integrated%20across%20time%20and%20space.&text=The%20data%20are%20coded%20and,time%20to%20facillitate%20comparative%20research.
+
+https://ipums.org/
+
+https://usa.ipums.org/usa/
+
+https://www.census.gov/programs-surveys/acs
+https://en.wikipedia.org/wiki/American_Community_Survey
+
